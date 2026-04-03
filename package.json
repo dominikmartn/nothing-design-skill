@@ -2,7 +2,7 @@
   "name": "nothing-design-skill",
   "version": "3.0.0",
   "description": "A design system skill for AI agents inspired by Nothing's visual language.",
-  "main": "index.js",
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dominikmartn/nothing-design-skill.git"
