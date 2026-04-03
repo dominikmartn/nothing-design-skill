@@ -18,16 +18,26 @@ Tell Claude `/nothing-design` or say "Nothing style" and it generates UI followi
 
 ## Install
 
-Copy the `nothing-design` folder into your Claude Code skills directory:
+The easiest way to install this skill is via the `skills` CLI:
+
+```sh
+npx skills add dominikmartn/nothing-design-skill
+```
+
+### Manual Install
+
+If you prefer manual installation, clone the repository and copy the `skills` folder into your agent's skills directory (renaming it to `nothing-design` for clarity):
 
 ```sh
 git clone https://github.com/dominikmartn/nothing-design-skill.git
-cp -r nothing-design-skill/nothing-design ~/.claude/skills/
+cp -r nothing-design-skill/skills ~/.claude/skills/nothing-design
 ```
 
-That's it. Next time you start Claude Code, the skill is available.
+That's it. Next time you start your AI agent (like Claude Code or Gemini CLI), the skill is available.
 
 ## What's inside
+
+The skill is located in `skills/`:
 
 | File | |
 |------|---|

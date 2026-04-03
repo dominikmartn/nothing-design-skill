@@ -1,0 +1,23 @@
+{
+  "name": "nothing-design-skill",
+  "version": "3.0.0",
+  "description": "A design system skill for AI agents inspired by Nothing's visual language.",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dominikmartn/nothing-design-skill.git"
+  },
+  "keywords": [
+    "agent-skill",
+    "nothing-design",
+    "design-system",
+    "claude-code",
+    "gemini-cli"
+  ],
+  "author": "Dominik Martin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dominikmartn/nothing-design-skill/issues"
+  },
+  "homepage": "https://github.com/dominikmartn/nothing-design-skill#readme"
+}
