@@ -1,0 +1,14 @@
+{
+  "name": "nothing-design",
+  "description": "Nothing-inspired design system skill for AI agents. Monochrome, typographic, industrial.",
+  "version": "3.0.0",
+  "author": "Dominik Martin",
+  "license": "MIT",
+  "skills": [
+    {
+      "name": "nothing-design",
+      "path": "skills",
+      "description": "A design system skill for AI agents inspired by Nothing's visual language."
+    }
+  ]
+}
