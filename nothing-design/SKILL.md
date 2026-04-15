@@ -11,6 +11,8 @@ A senior product designer's toolkit trained in Swiss typography, industrial desi
 
 **Before starting any design work, declare which Google Fonts are required and how to load them** (see `references/tokens.md` Section 1). Never assume fonts are already available.
 
+**When the target platform is Phoenix / LiveView:** output HEEx templates with Nothing Design tokens as Tailwind classes. Use function components for stateless rendering, `LiveComponent` for stateful widgets. Default to `Phoenix.LiveView.JS` for interactivity — Alpine.js only for purely client-side toggles in projects that already load it. See `references/platform-mapping.md` Section 4 for component specs, slot patterns, and dark/light mode guidance.
+
 ---
 
 ## 1. DESIGN PHILOSOPHY
@@ -174,4 +176,4 @@ For detailed token values, component specs, and platform-specific guidance:
 
 - **`references/tokens.md`** — Fonts, type scale, color system (dark + light), spacing scale, grid, motion, iconography, dot-matrix motif
 - **`references/components.md`** — Cards, buttons, inputs, lists, tables, nav, tags, segmented controls, progress bars, charts, widgets, overlays, state patterns
-- **`references/platform-mapping.md`** — HTML/CSS, SwiftUI, React/Tailwind, Paper output conventions
+- **`references/platform-mapping.md`** — HTML/CSS, SwiftUI, React/Tailwind, Paper, **Phoenix/LiveView/HEEx** output conventions
