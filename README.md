@@ -39,3 +39,11 @@ That's it. Next time you start Claude Code, the skill is available.
 ## License
 
 MIT
+
+---
+
+Made by [@dominikmartn](https://x.com/dominikmartn) · [dominikmart.in](https://dominikmart.in/?utm_source=github&utm_medium=readme&utm_campaign=nothing-design-skill). Other projects:
+
+- **[Ocelli](https://ocelli.app/?utm_source=github&utm_medium=readme&utm_campaign=nothing-design-skill)** · Meeting notes and dictation for your Mac
+- **[hue](https://hueapp.io/?utm_source=github&utm_medium=readme&utm_campaign=nothing-design-skill)** · Drop a brand link, name or screenshot and it one shots a full design system
+- **[Harp](https://github.com/dominikmartn/harp)** · Many Claude Code and Codex agents side by side, one sidebar tells you which one needs you
