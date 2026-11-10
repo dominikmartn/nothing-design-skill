@@ -36,6 +36,15 @@ That's it. Next time you start Claude Code, the skill is available.
 | `references/components.md` | Buttons, cards, lists, tables, overlays |
 | `references/platform-mapping.md` | CSS, SwiftUI, React output mappings |
 
+## Before/after example
+
+The skill applied to a plain weekly ops dashboard (dark mode first, with a light mode toggle). Both links open live pages.
+
+- Before: https://skill-fixture-before.theroost.dev
+- After: https://nothing-design-after.theroost.dev
+
+Illustrative, community-contributed example; not an official demo or benchmark.
+
 ## License
 
 MIT
